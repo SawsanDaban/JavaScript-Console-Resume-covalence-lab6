@@ -1,4 +1,4 @@
-# covalence-lab6
+# JavaScript Console Resume covalence-lab6
 Covalence lab 6 solution. 
 
 ## Resume
